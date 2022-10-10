@@ -1,8 +1,9 @@
 # Machine-Learning
 > Still Uploading .... 
-## Regresson Projects: 
+## Regresson : 
 - Used Car Price Prediction 
-## Classification Projects: 
+- Data Science Salaries Prediction
+## Classification : 
 - Loan statue Prediction 
 - Diabetes Prediction 
-## Clustring Projects 
+## Clustring : 
