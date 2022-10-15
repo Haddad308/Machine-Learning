@@ -7,4 +7,5 @@
 ## Classification : 
 - Loan statue Prediction 
 - Diabetes Prediction 
+- Credit Score Prediction 
 ## Clustring : 
